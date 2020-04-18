@@ -1,2 +1,2 @@
-# Microservicios-Examen-final-pr-ctico
+# Microservicios-Examen-final-práctico
 Repositorio donde está el examen final práctico de arquitectura de software.
